@@ -1,0 +1,5 @@
+1 - PAN: Pois a conexão de bluetooth é feita em uma distância pequena.
+2 - LAN: É LAN por que tem uma distância moderada e estão todos ligados a somente um router.
+3 - CAN: É uma distância maior e interliga vários edifícios com polos diferentes.
+4 - PAN: É uma distância pequena.
+5 - PAN: NFC faz parte do PAN, tem uma distância pequena.
