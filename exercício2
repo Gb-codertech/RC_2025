@@ -1,0 +1,15 @@
+- O institudo Politécnico de Lisboa quer melhorar a sua infraestrutura de rede. Tem:
+  - 3 edifícios
+  - 50 computadores
+  - Funcionários que usam tablets com ligação WI-FI
+
+- Perguntas:
+
+A) Que tipo de rede (LAN ou CAN) deve ser usada para ligar os computadores dos 3 edifícios? Porquê?
+R: CAN, pois com 3 edifícios e tantos computadores o CAN deveria ser usado para conectar todos os dispositivos.
+
+B) Como classificarias a ligação entre um tablet e uma impressora WI-FI?
+R: É uma rede LAN, pois pode conectar-se em uma distância maior, não necessariamente física.
+
+C) Que tecnologia permitiria ligar os edifícios? (Ex: fibra óptica, cabo Ethernet, WI-FI).
+R: Fibra Ótica, pois cada edifício teria um router para conectar uns aos outros.
