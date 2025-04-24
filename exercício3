@@ -1,7 +1,7 @@
 1 - LAN, por que os 30 computadores estão em somente um escritório.
 
-2 - MAN, pois é em uma distância grande, redes como LAN ou CAN não seriam estáveis.
+2 - WAN, pois é em uma distância grande, redes como LAN, CAN ou MAN, não seriam estáveis.
 
 3 - PAN, pois é uma distância de até 10 metros.
 
-4 - WAN, por que o acesso é feito no mundo inteiro.
+4 - MAN, por que o acesso é feito geralmente em uma cidade.
