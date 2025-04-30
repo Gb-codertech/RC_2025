@@ -2,7 +2,7 @@ Cenário A: Todos os computadores estão ligados ao mesmo cabo. Quando um comput
 R: Topologia de Barramento
 
 Cenário B: Cada computador está ligado diretamente a um switch. O switch central decide para onde enviar os dados.
-R: Topologia de Árvore
+R: Topologia de Estrela
 
 Cenário C: Os computadores estão ligados de forma circular. Cada um passa os dados ao próximo até chegarem ao destino.
 R: Topologia em Anel
