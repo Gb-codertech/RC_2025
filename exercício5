@@ -1,0 +1,11 @@
+1: [Tablet] --- (Ligação WI-FI) --- [Impressora]
+
+2: [PC 1] --- | --- [Switch] --- [Edifício de Aulas]
+   [PC 2] --- |
+   [PC 3] --- |
+
+3: [Edifício 1] --- | --- (Cabo de fibra ótica)
+        |
+   [Edifício 2] --- |
+        |
+   [Edifício 3] --- |
