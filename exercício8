@@ -3,7 +3,7 @@ R: Smartphones,Computadores portáteis e Plataforma de streaming, funcionam melh
 Televisores Smart e Dispositivos IoT, com 2,4 GHz pois não necessitam de uma conexão tão rápida e podem ser usadas por uma distância maior.
 
 B) Qual é o padrão WI-FI mais adequado para esta configuração de rede doméstica? Justifica com base nas necessidades de largura de banda e cobertura.
-R: Banda de frequência de 2,4 GHz, pois a casa é de 2 andares com várias divisões e paredes grossas, então o WI-FI deveria ter mais alcance de conexão.
+R: 802.11ax, pois a casa é de 2 andares com várias divisões e paredes grossas, então o WI-FI deveria ter mais alcance de conexão. (CORRIGIDO)
 
 C) Deves utilizar uma rede para os visitantes? Quais seriam as vantagens e desvantagens?
 R: Sim. Vantagens: Mais segurança.
