@@ -1,10 +1,10 @@
 A) Associa cada ponto ao tipo de cabo ideal:
-I - CAT6 (4)
-II - CAT6a (1, 3)
-III - Fibra monomodo (2)
+I - CAT6 (3)
+II - CAT6a (1)
+III - Fibra monomodo (2, 4)
 
 B) Justifica a escolha para ponto 2
 R: Escolhi a Fibra monomodo, pois é em uma distância longa e tem alto consumo.
 
 C) Qual cabo suporta Power over Ethernet (PoE)?
-R: CAT6a, por que possui mais desempenho e perda mínima de energia.
+R: CAT6
