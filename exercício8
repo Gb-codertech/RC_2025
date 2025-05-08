@@ -1,0 +1,13 @@
+A) Qual a melhor banda de frequência (2,4 GHz ou 5 GHz) para cada tipo de dispositivo? Por que?
+R: Smartphones,Computadores portáteis e Plataforma de streaming, funcionam melhor com a banda de frequência de 5 GHz, pois precisam de uma conexão mais rápida e eficiente.
+Televisores Smart e Dispositivos IoT, com 2,4 GHz pois não necessitam de uma conexão tão rápida e podem ser usadas por uma distância maior.
+
+B) Qual é o padrão WI-FI mais adequado para esta configuração de rede doméstica? Justifica com base nas necessidades de largura de banda e cobertura.
+R: Banda de frequência de 2,4 GHz, pois a casa é de 2 andares com várias divisões e paredes grossas, então o WI-FI deveria ter mais alcance de conexão.
+
+C) Deves utilizar uma rede para os visitantes? Quais seriam as vantagens e desvantagens?
+R: Sim. Vantagens: Mais segurança.
+Desvantagens: Terá que decorar ou anotar mais um SSID e senha para uma rede.
+
+D) Que medidas de segurança recomendarias para esta rede?
+R: Ocultar o SSID da rede, para pessoas de fora não conseguirem acessa-la.
