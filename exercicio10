@@ -1,0 +1,8 @@
+A) O que faz uma bridge numa rede local?
+R: Faz uma comunicação entre diferentes redes.
+
+B) Imagina que um computador da Sala A envia dados para outro da mesma sala. A bridge vai interferir? Justifica.
+R: Sim, a bridge vai fazer a ligação, mas não vai modificar os dados.
+
+C) E se um computador da sala A quiser comunicar com uma da Sala B? O que faz a bridge?
+R: Faz a ligação entre as salas.
