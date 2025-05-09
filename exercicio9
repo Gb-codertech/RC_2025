@@ -1,0 +1,8 @@
+A) O que acontece quando um computador envia dados para outro numa rede com hub?
+R: Os dados vão ser mandados para todos os outros computadores ligados a essa rede com HUB.
+
+B) E se a rede estiver ligada a um switch? O que acontece com os dados enviados?
+R: Os dados serão enviados apenas para o computador que pediu esses dados.
+
+C) Indica as desvantagens e vantagens de usar um hub em vez de um switch
+R: O switch é mais caro, porém apresenta mais segurança e privacidade.
