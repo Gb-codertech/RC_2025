@@ -6,3 +6,9 @@ R: Os dados serão enviados apenas para o computador que pediu esses dados.
 
 C) Indica as desvantagens e vantagens de usar um hub em vez de um switch
 R: O switch é mais caro, porém apresenta mais segurança e privacidade.
+
+Resposta da professora: Hub: Vantagens - Simplicidade e baixo custo.
+Desvantagens - Baixo desempenho, baixa desempenho.
+
+Switch: Vantagens - Mais desempenho, Permite comunicação entre NIC's diferentes.
+Desvantagens - Problema de disponibilidade, mais caro.
