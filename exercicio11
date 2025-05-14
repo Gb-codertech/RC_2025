@@ -1,0 +1,9 @@
+Liga segmentos da mesma rede - Bridge
+
+Encaminha por endereço MAC - Switch
+
+Encaminha por endereço IP - Router
+
+Acede à Internet - Router
+
+Trabalha em que camada OSI - Switch (2) | Bridge (2) | Router (3)
