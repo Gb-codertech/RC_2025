@@ -1,0 +1,7 @@
+                     |     Gateway     |    Router    |
+    
+Interliga redes:     | =/ protocolos  X   |       X       | Só com mesmo IP
+    
+Traduz protocolos:   |        X        |              |
+    
+Encaminha tráfegos:  |        X        |       X      |
