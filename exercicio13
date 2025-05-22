@@ -1,13 +1,27 @@
 Física: São os cabos que fazem sinais elétricos para transmitir dados
+2: Cabos quebrados
+3: Ping
 
 Ligação de Dados: Faz uma ligação entre dispostivos da mesma rede, como Ethernet e WI-FI
+2: Erros e perda de dados
+3: Sniffers de pacotes
 
 Rede: Manda os dados por endereço, como o IP
+2: Congestionamento de rede
+3: Ping
 
 Transporte: Faz uma entrega confiável dos dados
+2: Erro ao receber os dados
+3: Netstat
 
 Sessão: É responsável pelo fechamento e abertura da comunicação de dispositivos
+2: O término de sessões podem interromper a comunicação
+3: Investigar as credenciais e permissões dos usuários
 
 Apresentação: Apresenta os dados de uma forma que o programa entenda
+2: Problemas na criptografia
+3: Verificar o formato e a codificação dos dados dos aplicativos
 
 Aplicação: Fornece serviços como o acesso à web
+2: Ataques DDOS
+3: HTTP
