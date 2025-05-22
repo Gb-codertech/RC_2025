@@ -1,0 +1,24 @@
+Acesso a rede: Comunicação física entre dispositivos
+2 - Slip Ethernet
+2.1 - Ethernet e WI-FI
+
+Internet: Encaminha dados pela internet
+2 - ARP, IP, RARP
+2.1 - Utiliza endereço IP
+
+Transporte: Responsável pela entrega confiável dos dados entre aplicações
+2 - UDP e TCP
+2.1 - Segmento e Datagrama
+
+Aplicação: Interage com as aplicações que os utilizadores usam
+2 - HTTP, DNS
+2.1 - Navegador Web
+
+
+
+|  Camada do Modelo TCP/IP |      Função na comunicação entre a Ana e Maria     |Protocolo possível | Unidade de informação             |
+|---------------------------------------------------------------------------------------------------------------------------------------|
+|  Aplicação               | Fornece serviços para as aplicações se comunicarem | HTTP, FTP, DNS    | Dados                             |
+|  Transporte              | Entrega confiável dos dados                        |   TCP, UDP        | Segmento (TCP) / Datagrama (UDP)  |
+|  Internet                | Permite que os dados cheguem ao destino            |       IP          | Pacote                            |
+|  Acesso à Rede           | Controla fisicamene como os dados são transmitidos | Ethernet, WI-FI   | Quadro (Frame)                    |
