@@ -1,0 +1,13 @@
+Física: São os cabos que fazem sinais elétricos para transmitir dados
+
+Ligação de Dados: Faz uma ligação entre dispostivos da mesma rede, como Ethernet e WI-FI
+
+Rede: Manda os dados por endereço, como o IP
+
+Transporte: Faz uma entrega confiável dos dados
+
+Sessão: É responsável pelo fechamento e abertura da comunicação de dispositivos
+
+Apresentação: Apresenta os dados de uma forma que o programa entenda
+
+Aplicação: Fornece serviços como o acesso à web
