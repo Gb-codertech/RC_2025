@@ -11,7 +11,7 @@ R: Ele não vai conseguir aceder, pois o gestor de redes impede o acesso.
 R: Sua função é colocar os utilizadores eu seu devido local de trabalho, para que utilizadores de zonas específicas não acedam a outras que elas não são permitidas.
 
 4) A partilha da impressora entre os departamentos de RH e administração é controlada por quê? Que papel tem o SON aqui? - 
-R: Para evitar que utilizadores de departamentos diferentes acedam a informações privadas do outro departamento. Seu papel é gerir permissões.
+R: Para evitar que utilizadores de departamentos diferentes acedam a informações do outro departamento. Seu papel é gerir permissões. (Corrigido)
 
 5) Como é que o SON pode ajudar o administrador da rede a identificar uma tentativa de acesso não autorizado? - 
 R: Com um aviso sobre um IP que não está na whitelist.
